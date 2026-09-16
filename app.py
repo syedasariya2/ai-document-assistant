@@ -882,19 +882,4 @@ if question:
             st.info(
                 result["text"]
             )
-```
 
----
-
-## 2. `requirements.txt`
-
-```text
-streamlit
-pymupdf
-python-docx
-sentence-transformers
-faiss-cpu
-numpy
-groq
-gdown
-```
